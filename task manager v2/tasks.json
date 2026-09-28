@@ -1,12 +1,37 @@
 [
     {
+        "id": 1,
+        "title": "Learn Python",
+        "completed": true,
+        "priority": "High",
+        "category": "Study"
+    },
+    {
         "id": 2,
-        "title": "Go to gym",
-        "completed": false
+        "title": "Learn JSON",
+        "completed": true,
+        "priority": "Medium",
+        "category": "Study"
     },
     {
         "id": 3,
-        "title": "Learn Python",
-        "completed": false
+        "title": "Buy new keyboard",
+        "completed": false,
+        "priority": "Low",
+        "category": "Grocery"
+    },
+    {
+        "id": 4,
+        "title": "Learn TypeScript",
+        "completed": false,
+        "priority": "Medium",
+        "category": "Study"
+    },
+    {
+        "id": 5,
+        "title": "Go to Gym",
+        "completed": true,
+        "priority": "Low",
+        "category": "Exercise"
     }
 ]
